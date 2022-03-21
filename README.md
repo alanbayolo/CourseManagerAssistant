@@ -9,6 +9,6 @@
  -[x]Admin Interface Structure
  
  ##To implement
- -[]Professor Interface
- -[]Create new courses and edit them
- -[]Built in mail system
+ -[ ]Professor Interface
+ -[ ]Create new courses and edit them
+ -[ ]Built in mail system
